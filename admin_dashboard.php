@@ -17,6 +17,7 @@ $result = $conn->query("SELECT * FROM bookings");
 </head>
 <body>
   <h2>Booking Management</h2>
+    <h2>summer offer available </h2>
   <a href="admin_logout.php">Logout</a>
   <table border="1" cellpadding="10">
     <tr>
